@@ -21,7 +21,7 @@ Removes Chinese lunar calendar hieroglyphs from the standard Calendar app on Col
 
 | Before | After |
 |---|---|
-| Chinese hieroglyphs under every date | Clean calendar without hieroglyphs |
+| <img width="360" src="https://github.com/user-attachments/assets/3457b293-8f98-48c0-9e38-f5cb81ffa244" /> | <img width="360" src="https://github.com/user-attachments/assets/b370260c-208b-40bb-8298-287a02796ce6" /> |
 
 ## Compatibility
 
