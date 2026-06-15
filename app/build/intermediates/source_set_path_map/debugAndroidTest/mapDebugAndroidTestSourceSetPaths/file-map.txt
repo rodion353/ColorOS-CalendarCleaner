@@ -1,0 +1,4 @@
+com.calendar.cleaner.test.app-androidTest-0 C:\Users\Rodion\Downloads\CalendarCleaner_final\app\build\generated\res\resValues\androidTest\debug
+com.calendar.cleaner.test.app-mergeDebugAndroidTestResources-1 C:\Users\Rodion\Downloads\CalendarCleaner_final\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.calendar.cleaner.test.app-mergeDebugAndroidTestResources-2 C:\Users\Rodion\Downloads\CalendarCleaner_final\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.calendar.cleaner.test.app-debugAndroidTest-3 C:\Users\Rodion\Downloads\CalendarCleaner_final\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
